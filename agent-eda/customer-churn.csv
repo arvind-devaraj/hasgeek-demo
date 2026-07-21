@@ -1,0 +1,11 @@
+customer_id,age,tenure_months,contract_type,monthly_charges,support_tickets,churn_reason,churn
+CUST_1000,56,24,Month-to-Month,89.5,4,High Price,Yes
+CUST_1001,28,3,Month-to-Month,45.0,8,Poor Service,Yes
+CUST_1002,41,48,Two Year,65.25,1,None,No
+CUST_1003,33,12,One Year,110.0,2,Competitor Offer,Yes
+CUST_1004,62,36,Two Year,29.99,0,None,No
+CUST_1005,22,2,Month-to-Month,95.1,7,Poor Service,Yes
+CUST_1006,45,18,One Year,70.5,3,None,No
+CUST_1007,50,5,Month-to-Month,105.8,9,High Price,Yes
+CUST_1008,31,30,One Year,55.4,1,None,No
+CUST_1009,27,8,Month-to-Month,82.0,5,Competitor Offer,Yes
